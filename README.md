@@ -1,1 +1,3 @@
-# TugasPertemuan6
+# **Tugas ini untuk melengkapi pertemuan ke 6
+
+# Dan menjelaskan project**
