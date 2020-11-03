@@ -95,7 +95,7 @@ String formatting atau pemformatan string memungkinan kita menyuntikkan item ked
 `print(9, 10**9)` <br>
 `print(10, 10**10)` <br>
 
-`#string format 1
+`#string format 1`
 `print('{0:>3} {1:>16}'.format(0, 10**0))` <br>
 `print('{0:>3} {1:>16}'.format(1, 10**1))` <br>
 `print('{0:>3} {1:>16}'.format(2, 10**2))` <br>
@@ -108,3 +108,6 @@ String formatting atau pemformatan string memungkinan kita menyuntikkan item ked
 `print('{0:>3} {1:>16}'.format(9, 10**9))` <br>
 `print('{0:>3} {1:>16}'.format(10, 10**10))` <br>
 
+Saat ini saya akan membahas satu persatu dari syntax yang telah diberikan oleh Dosen.
+
+**1. String Format 1**
