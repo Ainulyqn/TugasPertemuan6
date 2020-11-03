@@ -1,3 +1,3 @@
-# **Tugas ini untuk melengkapi pertemuan ke 6
+# **Tugas ini untuk melengkapi pertemuan ke 6**
 
-# Dan menjelaskan project**
+# **Dan menjelaskan project**
