@@ -1,7 +1,7 @@
 # **Tugas ini untuk melengkapi pertemuan ke 6** <br>
 # **Dan menjelaskan project**
 
-![logo](poto/Logo.png)
+![logo](poto/upb.png)
 
 **Nama          : Ainul Yaqin** <br>
 **NIM           : 312010423**<br>
