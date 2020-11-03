@@ -128,11 +128,50 @@ Secara Default, **.format()** menggunakan rata kiri, angka ke kanan. kita dapat 
 
 `print('{0:8} | {1:9}'.format('Nama orang','Jumlah'))` <br>
 `print('{0:8} | {1:9}'.format('Ahmad',3.))` <br>
-`print('{0:8} | {1:9}'.format('Wildan',10))` <br>
+`print('{0:8} | {1:9}'.format('Jony',10))` <br>
 
 Hasil dari source code contoh diatas akan seperti berikut : <br>
-![foto](poto/string.png)
+![format](poto/string.png)
 
-parhan
+Secara Default, **.format()** menggunakan rata text ke kiri, angka ke kanan, kita dapat menggunakan opsi opsional<,^,atau > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan **.format()** sebagai berikut :
 
+`print('{:<30}{:30}{:>30}'.format('motor','roket','kapal'))` <br>
+`print('{:<30}{:30}{:>30}'.format(10,20,15))` <br>
+
+Hasil dari source code contoh diatas akan muncul seperti ini : <br>
+![gambar](poto/string1.png)
+
+#**Lab 2** <br>
+![foto](poto/lab2.png)
+
+String Format 2
+
+**Variabel adalah tempat menyimpan data**
+
+**menaruh / Assignment Nilai.** <br>
+`a = 10 x = 5 panjang = 1000 print(0, 10**0)`
+
+**Pemanggilan Pertama** <br>
+`print("Nilai a =", a) print("Nilai x =", x) print("Nilai panjang = ",panjang)`
+
+**Penamaan** <br>
+`nilai_y = 15 # dengan menggunakan underscore juta10 = 1000000 # ini boleh`
+`nilaiZ = 17.5 # ini boleh`
+
+**Pemanggilan Kedua** <br>
+`print("Nilai a = ", a) a = 7 print("Nilai b = ", a)`
+
+**Assigment Indirect** <br>
+`b = a print("Nilai b = ",b)`
+`a=int(input("masukkan nilai a:")) b=int(input("masukkan nilai b:"))` <br>
+`print("variable a=",a) print("variable b=",b) print("hasil penggabungan {1}&` <br>
+`{0}=%d".format(a,b) %(a+b))`
+
+**Konversi Nilai Variabel** <br>
+`a=int(a) b=int(b) print("hasil pejumlahan {1}+{0}=%d".format(a,b) %(a+b))`
+`print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))`
+
+![gambar](poto/konversi.png)
+
+Untuk hasil dari string Format 2 adalah : <br>
 
