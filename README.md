@@ -111,3 +111,8 @@ String formatting atau pemformatan string memungkinan kita menyuntikkan item ked
 Saat ini saya akan membahas satu persatu dari syntax yang telah diberikan oleh Dosen.
 
 **1. String Format 1**
+
+Pada syntax / source code strring format satu akan menampilkan output berupa 2 outputan. <br>
+Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, sedangkan untuk sebelah kanan akan menampilkan Operasi Aritmatika Pangkat.
+Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [bintang dua] ) <br>
+Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10, dengan output sebagai berikut :
