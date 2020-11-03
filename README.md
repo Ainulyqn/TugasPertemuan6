@@ -76,4 +76,35 @@ Hasil dari source code tersebut seperti gambar dibawah ini :
 
 ![separator](poto/separator.png)
 
+* String Format
+
+String formatting atau pemformatan string memungkinan kita menyuntikkan item kedalam string dari pada kita mencoba menggabungkan string menggunakan koma atau string concatenation.
+
+* Penggunaan source code yang di berikan oleh dosen seperti berikut : <br>
+![string](poto/format1.png)
+
+`#string format 1`
+`print(0, 10**0)` <br>
+`print(1, 10**1)` <br>
+`print(2, 10**2)` <br>
+`print(3, 10**3)` <br>
+`print(4, 10**4)` <br>
+`print(5, 10**5)` <br>
+`print(6, 10**5)` <br>
+`print(8, 10**8)` <br>
+`print(9, 10**9)` <br>
+`print(10, 10**10)` <br>
+
+`#string format 1
+`print('{0:>3} {1:>16}'.format(0, 10**0))` <br>
+`print('{0:>3} {1:>16}'.format(1, 10**1))` <br>
+`print('{0:>3} {1:>16}'.format(2, 10**2))` <br>
+`print('{0:>3} {1:>16}'.format(3, 10**3))` <br>
+`print('{0:>3} {1:>16}'.format(4, 10**4))` <br>
+`print('{0:>3} {1:>16}'.format(5, 10**5))` <br>
+`print('{0:>3} {1:>16}'.format(6, 10**6))` <br>
+`print('{0:>3} {1:>16}'.format(7, 10**7))` <br>
+`print('{0:>3} {1:>16}'.format(8, 10**8))` <br>
+`print('{0:>3} {1:>16}'.format(9, 10**9))` <br>
+`print('{0:>3} {1:>16}'.format(10, 10**10))` <br>
 
