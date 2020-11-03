@@ -133,5 +133,6 @@ Secara Default, **.format()** menggunakan rata kiri, angka ke kanan. kita dapat 
 Hasil dari source code contoh diatas akan seperti berikut : <br>
 ![foto](poto/string.png)
 
+parhan
 
 
