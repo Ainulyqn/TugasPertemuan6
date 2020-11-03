@@ -12,14 +12,14 @@
 
 Pada halaman ini (Tugas Pertemuan 6 - Lab 1) saya diberikan tugas oleh Dosen yaitu mempelajari operator aritmatika menggunakan bahasa Pemrograman pyhton. Berikut source code yang di berikan oleh dosen :
 
-`#penggunaan end <br>
-print('A', end='') <br>
-print('B', end='') <br>
-print('C', end='') <br>
-print() <br>
-print('X') <br>
-print('Y') <br>
-print('z')` <br>
+`#penggunaan end` <br>
+`print('A', end='')` <br>
+`print('B', end='')` <br>
+`print('C', end='')` <br>
+`print()` <br>
+`print('X')` <br>
+`print('Y')` <br>
+`print('z')` <br>
 
 `#Penggunaan separator`<br>
 `w, x, y, z = 10, 15, 20, 25` <br>
@@ -33,9 +33,9 @@ Baik, berikutnya saya akan menjelaskan tentang materi yang diberikan oleh dosen.
 
 * Penggunaan END Penggunaan end digunakan untuk menambahkan karakter yang dicetak di akhir baris. secara default penggunaan end adalah untuk ganti baris.
 
-`print('A', end='')`<br>
-`print('B', end='')`<br>
-`print('C', end='')`<br>
+`print('A', end='')` <br>
+`print('B', end='')` <br>
+`print('C', end='')` <br>
 
 `> Penggunaan print () digunakan untuk mencetak output, seperti syntax dibawah ini :`
 
