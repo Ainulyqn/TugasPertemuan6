@@ -141,7 +141,7 @@ Secara Default, **.format()** menggunakan rata text ke kiri, angka ke kanan, kit
 Hasil dari source code contoh diatas akan muncul seperti ini : <br>
 ![gambar](poto/string1.png)
 
-#**Lab 2** <br>
+# **Lab 2** <br>
 ![foto](poto/lab2.png)
 
 String Format 2
