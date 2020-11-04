@@ -174,4 +174,8 @@ String Format 2
 ![gambar](poto/konversi.png)
 
 Untuk hasil dari string Format 2 adalah : <br>
+![gambar](poto/hasil.png)
 
+**Sekian Terima Kasih**
+
+Jika ada kesalahan dalam peulisan saya harap untuk dibukakan pintu maaf yang sebesar-besar.
